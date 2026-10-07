@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "title": "Iris model comparison learning notebooks",
   "completion_gate_passed": true,
   "files": [
@@ -10,13 +10,13 @@
     },
     {
       "path": "experiment.py",
-      "sha256": "f0d2fe1a1ce9f5068a68d2ba4e841b4d44b7ec3ef609c97bc6d11790ea13c6c9",
-      "bytes": 3537
+      "sha256": "3d9cad6f70b1b0d9e9fc7fae0adef20aa7f618a3a61d5daf5b8d50f528dbaff2",
+      "bytes": 3541
     },
     {
       "path": "iris.ipynb",
-      "sha256": "f90a21fde3156ddb2296ed79f8a9f4849f4c9fe986014b79c7b050977eefd915",
-      "bytes": 1796
+      "sha256": "f1af84172534561333151f163eacd404beb40da9779ed1f21b0ed6eba3c36345",
+      "bytes": 1806
     },
     {
       "path": "metrics.json",
@@ -25,8 +25,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "d934aec034ac0e2d41f6ce2c4331cfa6a049ece8451cf9ced21236ec427d4c22",
-      "bytes": 534
+      "sha256": "f6f1e2a6fc6d7cfa5e52c36d9456385585c708fc44b15c8e415d3369d67a2e20",
+      "bytes": 545
     },
     {
       "path": "requirements.txt",
@@ -35,8 +35,8 @@
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "49d4a7a7d4961d1a0cf785c86cc699dd999c7174eae4042afe1729e1f66ddb28",
-      "bytes": 748
+      "sha256": "8c5a14af995e310c0650a3577d5a5dcb2f707983de66958385e52b465c5f5a44",
+      "bytes": 756
     }
   ]
 }

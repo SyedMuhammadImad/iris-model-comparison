@@ -1,7 +1,7 @@
 # Iris model comparison learning notebooks
 
-Completed academic model comparison. Repaired notebook and command-line workflow use seeded splits and training-only preprocessing. Numeric results are in `metrics.json`; checks and limits are in `VERIFICATION.json`.
+Completed experimental model comparison. Repaired notebook and command-line workflow use seeded splits and training-only preprocessing. Numeric results are in `metrics.json`; checks and limits are in `VERIFICATION.json`.
 
 Install `requirements.txt`, then run `python experiment.py --output metrics.json`. Original source datasets remain local; model weights, pictures and videos are excluded.
 
-The notebook keeps the setup → experiment → results pattern of the other published labs.
+The notebook keeps the setup → experiment → results pattern of the other published experiments.
